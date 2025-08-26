@@ -15,13 +15,13 @@ Here, I’ll be:
 ---
 
 ## 🛠️ Tech Stack
-- **Language(s):** [Add the languages you are using, e.g., Python, JavaScript, HTML/CSS]  
-- **Tools:** [Add tools, e.g., Git, VS Code, etc.]
+- **Language(s):** [HTML/CSS & javascrip]  
+- **Tools:** [Git, VS Code]
 
 ---
 
 ## 🚀 Getting Started
 To clone and run this project locally:
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/AbdellaouiSaid-DEV/First.git
+cd First/
